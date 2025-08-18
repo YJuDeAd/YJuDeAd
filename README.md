@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate developer who loves to tinker and build. 🚀 <br>You'll find me using Python to create projects that combine the physical and digital worlds. 🐍 <br>Always looking to learn and collaborate on interesting new challenges. ✨
+A passionate developer who loves to tinker and build new projects. 🚀 <br>You'll find me using Python to create projects that combine the physical and digital worlds. 🐍 <br>Always looking to learn and collaborate on interesting projects. ✨
 
 
 ## 🌐 Socials:
